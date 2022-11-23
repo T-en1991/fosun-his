@@ -1,0 +1,68 @@
+{
+  "zh-CN": [
+    {
+      "name": "开始",
+      "children": [
+        {
+          "path": "/installation",
+          "name": "介绍"
+        },
+        {
+          "path": "/quickstart",
+          "name": "快速使用"
+        },
+        {
+          "path": "/devcomponent",
+          "name": "开发组件"
+        },
+        {
+          "name": "更新日志",
+          "path": "/changelog"
+        }
+      ]
+    },
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "通用",
+          "list": [
+            {
+              "path": "/icon",
+              "title": "Icon 图标"
+            },
+            {
+              "path": "/button",
+              "title": "Button 按钮"
+            }
+          ]
+        },
+        {
+          "groupName": "数据录入",
+          "list": [
+          ]
+        },
+        {
+          "groupName": "数据展示",
+          "list": [
+          ]
+        },
+        {
+          "groupName": "反馈",
+          "list": [
+          ]
+        },
+        {
+          "groupName": "导航",
+          "list": [
+          ]
+        },
+        {
+          "groupName": "其他",
+          "list": [
+          ]
+        }
+      ]
+    }
+  ]
+}

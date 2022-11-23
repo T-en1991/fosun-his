@@ -1,0 +1,32 @@
+[
+  {
+    "component": "Button",
+    "title": "Button 按钮",
+    "type": "component"
+  },
+  {
+    "component": "ButtonGroup",
+    "title": "按钮组",
+    "type": "component"
+  },
+  {
+    "component": "Backtop",
+    "title": "Backtop 回到顶部",
+    "type": "component"
+  },
+  {
+    "component": "Icon",
+    "title": "Icon 图标",
+    "type": "component"
+  },
+  {
+    "component": "Input",
+    "title": "Input 输入框",
+    "type": "component"
+  },
+  {
+    "component": "Tooltip",
+    "title": "Tooltip 文字提示",
+    "type": "component"
+  }
+]

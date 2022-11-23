@@ -1,0 +1,43 @@
+.fs-header,
+.fs-footer {
+  background-color: #b3c0d1;
+  color: #333;
+  line-height: 60px;
+}
+
+.fs-aside {
+  color: #333;
+}
+
+#chang-jian-ye-mian-bu-ju + .demo-container {
+  .fs-header,
+  .fs-footer {
+    text-align: center;
+  }
+
+  .fs-aside {
+    background-color: #d3dce6;
+    text-align: center;
+    line-height: 200px;
+  }
+
+  .fs-main {
+    background-color: #e9eef3;
+    color: #333;
+    text-align: center;
+    line-height: 160px;
+  }
+
+  & > .source > .fs-container {
+    margin-bottom: 40px;
+
+    &:nth-child(5) .fs-aside,
+    &:nth-child(6) .fs-aside {
+      line-height: 260px;
+    }
+
+    &:nth-child(7) .fs-aside {
+      line-height: 320px;
+    }
+  }
+}

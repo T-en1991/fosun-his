@@ -1,0 +1,12 @@
+{
+  "button": "./packages/button/index.js",
+  "button-group": "./packages/button-group/index.js",
+  "row": "./packages/row/index.js",
+  "tooltip": "./packages/tooltip/index.js",
+  "scrollbar": "./packages/scrollbar/index.js",
+  "backtop": "./packages/backtop/index.js",
+  "icon": "./packages/icon/index.js",
+  "input": "./packages/input/index.js",
+  "autocomplete": "./packages/autocomplete/index.js",
+  "popover": "./packages/popover/index.js"
+}
